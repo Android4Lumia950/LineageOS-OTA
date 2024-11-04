@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1730737054",
+      "filename": "lineage-18.1-20241104-UNOFFICIAL-talkman.zip",
+      "id": "5aa9c1a1fd891e3fb76fc44c2045a875eca6e4bb3d309807306f4ddae56d4eec",
+      "romtype": "UNOFFICIAL",
+      "size": "706118136",
+      "url": "https://github.com/Android4Lumia950/LineageOS-OTA/releases/download/talkman_lineage-18.1_1730737054/lineage-18.1-20241104-UNOFFICIAL-talkman.zip",
+      "version": "18.1"
+    }
+  ]
+}
